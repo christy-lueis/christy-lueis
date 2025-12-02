@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning .net ,Angular ,SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 REACH ME christylueis24@gmail.com.
-- ⚡ 
+- ⚡ I am the Master
 
 <!---
 christy-lueis/christy-lueis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
